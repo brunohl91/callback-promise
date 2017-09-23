@@ -1,6 +1,6 @@
 {
   "name": "callback-promises",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Module to execute promises sequentially",
   "main": "callback-promise.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "Module to execute promises sequentially"
+    "url": "https://github.com/brunohl91/callback-promise.git"
   },
   "keywords": [
     "promises",

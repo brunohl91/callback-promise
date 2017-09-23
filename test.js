@@ -3,7 +3,7 @@
   Teste de promises
  */
 
-var cal = require('./callback-promise.js');
+var cal = require('./callback-promises.js');
 
 cal.debug = true;
 
