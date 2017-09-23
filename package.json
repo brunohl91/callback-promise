@@ -1,0 +1,21 @@
+{
+  "name": "callback-promises",
+  "version": "0.0.5",
+  "description": "Module to execute promises sequentially",
+  "main": "callback-promise.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Module to execute promises sequentially"
+  },
+  "keywords": [
+    "promises",
+    "callback",
+    "javascript",
+    "node"
+  ],
+  "author": "Bruno Leite",
+  "license": "MIT"
+}
